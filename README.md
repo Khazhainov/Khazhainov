@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My LeetCode account - https://leetcode.com/Khazhainov/
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Khazhainov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
